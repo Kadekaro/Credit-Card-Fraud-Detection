@@ -1,0 +1,18 @@
+# Ambiente virtual
+.venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos do PyCharm
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+
+# Dataset
+data/creditcard.csv
+
+# Arquivos temporários
+*.tmp
+*.temp
